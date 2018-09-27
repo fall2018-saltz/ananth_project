@@ -23,6 +23,16 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [
+                {
+                    "input": "df",
+                    "type": "csv"
+                }
+            ],
+            "source": "data.csv",
+            "target": "script.R"
         }
     ],
     "nodes": [
@@ -40,6 +50,6 @@
             "name": "script.R"
         }
     ],
-    "updated_at": "2018-09-27 15:31:42",
+    "updated_at": "2018-09-27 15:32:00",
     "url": "https://github.com/fall2018-saltz/ananth_project"
 }
