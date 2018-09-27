@@ -61,10 +61,12 @@
             "name": "script.R"
         },
         {
+            "assigned_to": "agauribi",
             "desc": "",
-            "name": "abc.R"
+            "name": "abc.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-27 15:36:52",
+    "updated_at": "2018-09-27 15:37:20",
     "url": "https://github.com/fall2018-saltz/ananth_project"
 }
