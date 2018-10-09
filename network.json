@@ -17,16 +17,6 @@
         {
             "ports": [
                 {
-                    "output": "clean_data",
-                    "type": "csv"
-                }
-            ],
-            "source": "clean.R",
-            "target": "data.csv"
-        },
-        {
-            "ports": [
-                {
                     "input": "df",
                     "type": "csv"
                 }
@@ -67,6 +57,6 @@
             "name": "csvfile8239.csv"
         }
     ],
-    "updated_at": "2018-10-09 18:05:49",
+    "updated_at": "2018-10-09 18:12:18",
     "url": "https://github.com/fall2018-saltz/ananth_project"
 }
