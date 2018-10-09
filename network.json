@@ -40,16 +40,23 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "clean.R"
+            "assigned_to": "agauribi",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
         },
         {
+            "assigned_to": "agauribi",
             "desc": "",
-            "name": "script.R"
+            "name": "script.R",
+            "task_status": "in progress"
+        },
+        {
+            "name": "csvfile8239.csv"
         }
     ],
-    "updated_at": "2018-10-09 17:49:24",
+    "updated_at": "2018-10-09 18:04:55",
     "url": "https://github.com/fall2018-saltz/ananth_project"
 }
